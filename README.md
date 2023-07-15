@@ -1,3 +1,3 @@
-# demo
+# Demo
 
-simple text.
+simple text!
